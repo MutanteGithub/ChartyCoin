@@ -17,7 +17,7 @@ More information at [pivx.org](http://www.pivx.org) Visit our ANN thread at [Bit
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoW Phase)</td><td>43,199,500 CHCO</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
-<tr><td>Premine</td><td>60,000 CHCO*</td></tr>
+<tr><td>Premine</td><td>15,000 CHCO*</td></tr>
 </table>
 
 *60,000 CHCO Premine was burned in block [279917](http://www.presstab.pw/phpexplorer/CHCO/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
